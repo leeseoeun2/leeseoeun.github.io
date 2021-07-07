@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-이서은의 홈페이지
+[이서은](my-intro.md)의 홈페이지
 
 You can use the [editor on GitHub](https://github.com/leeseoeun/leeseoeun.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
